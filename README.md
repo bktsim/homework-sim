@@ -1,4 +1,12 @@
-# Homework Simulator
+
+
+<h1 align="center">📚 Homework Simulator</h1>
+
+<div align="center">
+  <img src="https://tr.rbxcdn.com/e9d9fbf34fcd260b36ed04d5b41140a9/768/432/Image/Png"/>
+</div>
+
+</br>
 
 Homework Simulator is a project that I have worked on with two other peers for 2 months during the summer of 2020. 
 
