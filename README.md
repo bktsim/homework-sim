@@ -1,9 +1,8 @@
 
 
 <h1 align="center">📚 Homework Simulator</h1>
-</br>
 <div align="center">
-  <img src="https://tr.rbxcdn.com/e9d9fbf34fcd260b36ed04d5b41140a9/768/432/Image/Png"/>
+  <img src="https://github.com/user-attachments/assets/83c235b0-734d-400f-ba1e-5f4d020ba019"/>
 </div>
 </br>
 
